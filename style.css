@@ -1,7 +1,23 @@
 /* Global */
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Lora');
 
 body {
     background: #ffe59f;
+    font-family: 'Lora', serif;
 }
 
 /* Typography */
+h1, h2, h3, h4, h6 {
+     font-family: 'Pacifico', cursive;
+}
+
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font: 2em;
+}
+
