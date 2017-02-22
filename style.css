@@ -5,6 +5,7 @@
 body {
     background: #ffe59f;
     font-family: 'Lora', serif;
+    margin: 0;
 }
 
 /* Typography */
@@ -20,4 +21,31 @@ h1 {
 h2 {
     font: 2em;
 }
+
+/* Positioning */
+header {
+    background: rgba(0, 128, 128, 0.56);
+    position: fixed;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
